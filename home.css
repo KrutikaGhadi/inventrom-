@@ -1,0 +1,56 @@
+
+nav{
+	margin: 0;
+	padding: 0;
+}
+li{margin-right: 150px;
+	list-style-type: none;
+
+}
+li a{
+	display: block;
+	color: black;
+	padding: 14px 16px;
+	text-decoration: none;
+	float: right;
+}
+.logo{
+	height: 50px;
+	float: left;
+	margin-left: 150px;
+}
+
+#header{
+	padding: 5px 0px;
+	
+}
+
+.bckimg{
+	background-image: url("background-layer.png");
+    padding-top: 80px;
+    height: 300px;
+    color: white;
+    margin-top: 40px;
+	text-align: center;
+	position: relative;
+}	
+
+h2 a{
+	text-decoration:none;
+	color: white;
+}
+#content{
+	padding: 30px 20px;
+	margin-top: 50px;
+
+}
+
+h1{
+color: green;
+text-align: center;
+}
+
+#about{
+	font-family: sans-serif;
+	text-align: center;
+}
