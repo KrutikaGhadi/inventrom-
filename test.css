@@ -22,7 +22,7 @@ li a{
 
 #header{
 	padding: 5px 0px;
-	
+
 }
 
 .bckimg{
@@ -95,4 +95,8 @@ text-align: center;
 
 .abtsec img{
     height: 250px;
+
+}
+.awardsec img{
+    height: 150px;
 }
