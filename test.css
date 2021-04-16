@@ -100,3 +100,31 @@ text-align: center;
 .awardsec img{
     height: 150px;
 }
+
+.details{
+    float: right;
+    width: 350px;
+    margin-right: 100px;
+    font-family: sans-serif;
+    font-size: 15px;
+}
+
+i{
+    font-size: 15px;
+    font-family: sans-serif;
+    color: grey;
+}
+
+footer{
+    
+      
+  text-decoration-color: : #139139;
+   background-color: : #139139;
+    font-size: 14px;
+    position: bottom;
+}
+
+.icons{
+    float: right;
+    
+}
