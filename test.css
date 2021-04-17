@@ -125,13 +125,17 @@ text-align: center;
 .awardsec img{
     height: 150px;
 }
-
+.details{
+    float: left;
+    display: inline-block;
+}
 .details{
     float: right;
     width: 300px;
     margin-right: 100px;
     font-family: sans-serif;
     font-size: 15px;
+    display: inline-block;
 }
 
 i{
