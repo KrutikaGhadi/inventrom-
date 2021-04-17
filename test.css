@@ -1,3 +1,5 @@
+body{margin-bottom: 50px;}
+
 
 nav{
 	margin: 0;
@@ -58,7 +60,7 @@ p,h1{
 	font-family: 'Open Sans', sans-serif;
 	font-weight:100;
 	text-shadow: 2px 2px 4px #dfdcdc;
-	text-align: center;
+	
 }
 
 #content{
@@ -112,7 +114,12 @@ text-align: center;
     	padding-left: 25px;
     }
 
-.abtsec img{
+.abtsec1 img{
+    height: 250px;
+
+}
+
+.abtsec2 img{
     height: 250px;
 
 }
@@ -140,7 +147,7 @@ p1{
 }
 
 footer{
-  	left: 0;
+  	
   	bottom: 0;
   	width: 100%;
 	font-size: 15px;
@@ -149,11 +156,11 @@ footer{
 	background-color: #139139;
 	text-decoration-color:#000000;
 	margin-top: 100px;
-	position: fixed;
-}
+	position:fixed;
+    margin-bottom: 0px;}
     
 span{
-    float: right;
+   float: right;
     margin-right: 50px;
 }
 
