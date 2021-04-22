@@ -36,7 +36,7 @@ li a{
 .bckimg{
 	background-image: url("background-layer.png");
     padding-top: 80px;
-    height: 410px;
+    height: 350px;
 	background-size: 100% 100%;
     color: white;
     margin-top: 70px;
@@ -125,10 +125,7 @@ text-align: center;
 .awardsec img{
     height: 150px;
 }
-.details{
-    float: left;
-    display: inline-block;
-}
+
 .details{
     float: right;
     width: 300px;
@@ -136,6 +133,7 @@ text-align: center;
     font-family: sans-serif;
     font-size: 15px;
     display: inline-block;
+    color:grey;
 }
 
 i{
@@ -149,19 +147,19 @@ p1{
     margin-left: 100px;
 }
 
-footer{
-  	
-  	bottom: 0;
-  	width: 100%;
-	font-size: 15px;
-	color: white;
-	height: 50px;
-	background-color: #139139;
-	text-decoration-color:#000000;
-	margin-top: 100px;
-	position:fixed;
-    margin-bottom: 0px;}
+
+footer{ 
+    height: 50px;
+    background-color: #139139;
+    width: 100%;	
+    position: fixed;
+    bottom: 0px;
+    margin-top: 200px;
+}
     
+    .contacthead{
+  font-size: 25px;
+}
 span{
    float: right;
     margin-right: 50px;
@@ -179,4 +177,7 @@ span{
   .fa:hover {
 	  opacity: 0.7;
   }
-  
+
+.href[]{
+    color: black;
+}
